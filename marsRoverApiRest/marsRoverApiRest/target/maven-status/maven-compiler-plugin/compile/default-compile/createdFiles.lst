@@ -1,0 +1,9 @@
+com\marsRoverApiRest\repository\RoverPositionRepository.class
+com\marsRoverApiRest\entity\RoverPosition.class
+com\marsRoverApiRest\entity\Obstacle.class
+com\marsRoverApiRest\controller\RoverController.class
+com\marsRoverApiRest\entity\Rover$1.class
+com\marsRoverApiRest\entity\Direction.class
+com\marsRoverApiRest\MarsRoverApiRestApplication.class
+com\marsRoverApiRest\entity\Rover.class
+com\marsRoverApiRest\entity\RoverRequest.class
